@@ -1,12 +1,8 @@
-<html lang="es">
-<head>
-	<meta charset="UTF-8">
-</head>
 <body>
 	<h1>UI Kits e Iconos con diseño Flat</h1>
 	<p>Después del boot, llega el Flat y llegó para quedarse. Ya bastante rato lleva usándose el Diseño Flat en las webs, aún mucho antes de ponerse de moda con el ya famoso y no tan flat iOS7. Así que si buscas mudarte al Diseño Flat nada como iniciar con una buena serie de iconos y UI kits para apoyarte e inspirarte durante la realización de tu sitio.</p>
 	<p>Aquí una lista de las mejores UIs para interfaz de usuario y sets de iconos Flat, perfectos para la creación de aplicaciones de calidad y fabuloso interfaces web, y lo mejor de todo…. ¡Gratis!</p>
-	<br/><br/>
+	<br/>
 	<a href="http://designmodo.github.io/Flat-UI/">Designmodo</a><br/>
 	<a href="http://www.webdesignerdepot.com/2013/05/flat-ui-kit-free-download/">Web Designer Depot</a><br/>
 	<a href="http://dribbble.com/shots/947782-Freebie-PSD-Flat-UI-Kit">Riki Tanone</a><br/>
@@ -25,5 +21,4 @@
 	<a href="http://designmodo.com/flat-social-icons/">Free Flat Social Media Icons</a><br/>
 	<a href="http://www.smashingmagazine.com/2013/02/02/freebie-user-interface-kit-icons/">Linecons Icon Set</a>
 </body>
-</html>
 
